@@ -8,8 +8,8 @@
 /* 
 	Modify to your WIFI Access Credentials. 
 */
-char ssid[] = "GoingcosmeOffice";      //  your network SSID (name)  //zino
-char pass[] = "gc5227608";  // your network password (use for WPA, or use as key for WEP)  //zino
+char ssid[] = "ssid";      //  your network SSID (name)  //zino
+char pass[] = "pwd";  // your network password (use for WPA, or use as key for WEP)  //zino
 int keyIndex = 0;               // your network key Index number (needed only for WEP)  //zino
 
 int status = WL_IDLE_STATUS;  //zino
